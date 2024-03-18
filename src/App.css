@@ -1,0 +1,31 @@
+.container {
+  width: 100vw;
+}
+
+.image-container {
+    position: relative;
+    display: inline-block;
+}
+  
+.star-button {
+    position: absolute;
+    top: 5px;
+    right: -15px;
+    background: transparent;
+    border: none;
+    font-size: 24px;
+    color: gold;
+    cursor: pointer;
+}
+
+.unstar-button {
+  position: absolute;
+  top: 5px;
+  right: -15px;
+  background: transparent;
+  border: none;
+  font-size: 24px;
+  color: gold;
+  cursor: pointer;
+}
+  
