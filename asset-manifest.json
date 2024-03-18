@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Gallary-App/static/css/main.6744452a.css",
+    "main.js": "/Gallary-App/static/js/main.1770ff05.js",
+    "static/js/453.e5b86393.chunk.js": "/Gallary-App/static/js/453.e5b86393.chunk.js",
+    "index.html": "/Gallary-App/index.html",
+    "main.6744452a.css.map": "/Gallary-App/static/css/main.6744452a.css.map",
+    "main.1770ff05.js.map": "/Gallary-App/static/js/main.1770ff05.js.map",
+    "453.e5b86393.chunk.js.map": "/Gallary-App/static/js/453.e5b86393.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6744452a.css",
+    "static/js/main.1770ff05.js"
+  ]
+}
